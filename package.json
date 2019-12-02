@@ -1,0 +1,22 @@
+{
+  "name": "sputty",
+  "version": "1.0.0",
+  "description": "Skaffen Putty. Sets up putty configuration in Power Shell or Linux",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohscx/sPutty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohscx/sPutty/issues"
+  },
+  "homepage": "https://github.com/rohscx/sPutty#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
