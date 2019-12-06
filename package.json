@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rohscx/sPutty#readme",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "nodeutilz": "^1.1.0"
   }
 }
